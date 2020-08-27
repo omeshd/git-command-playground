@@ -1,6 +1,7 @@
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
+Omesh is good
 
 ## Installation
 
