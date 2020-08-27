@@ -1,6 +1,7 @@
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
+Dhanushka is best
 
 ## Installation
 
